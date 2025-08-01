@@ -1,0 +1,4 @@
+pynput==1.8.1
+schedule==1.2.2
+secure-smtplib==0.1.1
+six==1.17.0
